@@ -1,0 +1,1 @@
+- Migrate from Kotlin synthetics to Jetpack view binding

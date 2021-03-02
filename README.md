@@ -9,3 +9,11 @@ First Lesson
 * Layouts, Activities and Inflation
 * Basic code optimization
 * Gradle and Compatibility on Android
+
+Second Lesson
+-----------
+
+### Main topics:
+* Views
+* Linear Layout
+* Constraint Layout
