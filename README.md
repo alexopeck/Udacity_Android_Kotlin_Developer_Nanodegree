@@ -10,6 +10,9 @@ First Lesson
 * Basic code optimization
 * Gradle and Compatibility on Android
 
+### App
+* DiceRoller
+
 Second Lesson
 -----------
 
@@ -17,3 +20,19 @@ Second Lesson
 * Views
 * Linear Layout
 * Constraint Layout
+
+### Apps
+* AboutMe
+* ColorMyViews
+
+Third Lesson
+-----------
+
+### Main topics:
+* Navigation
+* Fragments
+* Intents and Sharing
+* Animation
+
+### App
+* AndroidTrivia
